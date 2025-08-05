@@ -24,8 +24,7 @@ Mobile - [Mobile](assets\images\Screenshot Mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://nati-tati.github.io/blog-card-2/](https://nati-tati.github.io/blog-card-2/)
 
 ## My process
 
